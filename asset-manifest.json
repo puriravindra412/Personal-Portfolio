@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Personal-Portfolio/static/css/main.a8de8f52.css",
-    "main.js": "/Personal-Portfolio/static/js/main.204d4ff6.js",
+    "main.js": "/Personal-Portfolio/static/js/main.1c521f7d.js",
     "static/js/415.4d6acbeb.chunk.js": "/Personal-Portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Personal-Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/TourRajasthan.png": "/Personal-Portfolio/static/media/TourRajasthan.f1622d569897bb7c2eaf.png",
@@ -17,12 +17,12 @@
     "static/media/pre.svg": "/Personal-Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Personal-Portfolio/index.html",
     "main.a8de8f52.css.map": "/Personal-Portfolio/static/css/main.a8de8f52.css.map",
-    "main.204d4ff6.js.map": "/Personal-Portfolio/static/js/main.204d4ff6.js.map",
+    "main.1c521f7d.js.map": "/Personal-Portfolio/static/js/main.1c521f7d.js.map",
     "415.4d6acbeb.chunk.js.map": "/Personal-Portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Personal-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a8de8f52.css",
-    "static/js/main.204d4ff6.js"
+    "static/js/main.1c521f7d.js"
   ]
 }
