@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Personal-Portfolio/static/css/main.a8de8f52.css",
+    "main.js": "/Personal-Portfolio/static/js/main.204d4ff6.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Personal-Portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Personal-Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/TourRajasthan.png": "/Personal-Portfolio/static/media/TourRajasthan.f1622d569897bb7c2eaf.png",
+    "static/media/Weather.png": "/Personal-Portfolio/static/media/Weather.2626e0f757ea0f366bf0.png",
+    "static/media/Portfolio.png": "/Personal-Portfolio/static/media/Portfolio.5afe53bc3024be86b313.png",
+    "static/media/home-main.svg": "/Personal-Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Personal-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/ChatX.png": "/Personal-Portfolio/static/media/ChatX.b14e3bc15ef2a6d995dd.png",
+    "static/media/Ravindra_Puri_Resume.pdf": "/Personal-Portfolio/static/media/Ravindra_Puri_Resume.36750f6451daca2cf489.pdf",
+    "static/media/RP.png": "/Personal-Portfolio/static/media/RP.8894eeb4597b500024ad.png",
+    "static/media/home-bg.jpg": "/Personal-Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/Personal-Portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/Personal-Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Personal-Portfolio/index.html",
+    "main.a8de8f52.css.map": "/Personal-Portfolio/static/css/main.a8de8f52.css.map",
+    "main.204d4ff6.js.map": "/Personal-Portfolio/static/js/main.204d4ff6.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Personal-Portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Personal-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8de8f52.css",
+    "static/js/main.204d4ff6.js"
+  ]
+}
