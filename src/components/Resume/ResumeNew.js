@@ -9,7 +9,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  "https://github.com/puriravindra412/Personal-Portfolio/blob/master/src/Assets/Ravindra_Puri_Resume.pdf";
+  "https://personal-portfolio-ravindra.netlify.app/static/media/Ravindra_Puri_Resume.47f8eec37f38a75ac68c.pdf";
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
