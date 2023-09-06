@@ -4,7 +4,9 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import Weather from "../../Assets/Projects/Weather.png";
 import TourRajasthan from "../../Assets/Projects/TourRajasthan.png";
+import Communex from "../../Assets/Projects/communex.png";
 
+import airbnb from "../../Assets/Projects/airbnb.png";
 import Personal_Portfolio from "../../Assets/Projects/Portfolio.png";
 import ChatX from "../../Assets/Projects/ChatX.png";
 
@@ -21,17 +23,36 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+        <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Communex}
+              isBlog={false}
+              title="Communex"
+              description="Communex is an innovative and community-driven platform designed to unite individuals from diverse backgrounds. By fostering connections, collaboration, and knowledge-sharing, Communex empowers users to connect, share, and innovate together. Through its dynamic multi-user blogging and social media environment, users can engage in meaningful interactions, learn from each other, and collaborate on projects. Whether you're a developer, a tech enthusiast, or someone passionate about connecting with like-minded individuals, Communex provides a vibrant hub for community-building and personal growth."
+              ghLink=""
+              demoLink=""
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={Personal_Portfolio}
               isBlog={false}
               title="Personal Portfolio"
-              description="My personal portfolio which features some of my github projects as well as my resume and technical skills."
+              description="Welcome to my personal portfolio, a digital space where my passion for web development comes to life. Through captivating design and meticulous craftsmanship, I showcase a collection of my projects, skills, and expertise. With a focus on creating captivating user experiences, I invite you to explore my journey through the realm of web development. From front-end magic to back-end innovation, this portfolio reflects my dedication to crafting immersive digital solutions that leave a lasting impact. Join me on this digital journey and witness the fusion of creativity and technology that defines my work."
               ghLink="https://github.com/puriravindra412/Personal-Portfolio"
-              demoLink="https://puriravindra412.github.io/Personal-Portfolio/"
+              demoLink="https://personal-portfolio-ravindra.netlify.app/resume"
             />
           </Col>
-
+          <Col md={4} className="project-card">
+          <ProjectCard
+            imgPath={airbnb}
+            isBlog={false}
+            title="Airbnb clone"
+            description="Experience the essence of web development with my Airbnb Recommendation Page Clone. Using React.js, I've crafted a responsive and engaging front-end replica of Airbnb's interface. Explore modern design, seamless navigation, and interactive elements that highlight my skills in creating captivating user experiences."
+            ghLink=""
+            demoLink=""
+          />
+        </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
