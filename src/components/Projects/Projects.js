@@ -29,8 +29,8 @@ function Projects() {
               isBlog={false}
               title="Communex"
               description="Communex is an innovative and community-driven platform designed to unite individuals from diverse backgrounds. By fostering connections, collaboration, and knowledge-sharing, Communex empowers users to connect, share, and innovate together. Through its dynamic multi-user blogging and social media environment, users can engage in meaningful interactions, learn from each other, and collaborate on projects. Whether you're a developer, a tech enthusiast, or someone passionate about connecting with like-minded individuals, Communex provides a vibrant hub for community-building and personal growth."
-              ghLink=""
-              demoLink=""
+              ghLink="https://github.com/puriravindra412/Communex"
+              demoLink="https://communex.netlify.app/"
             />
           </Col>
           <Col md={4} className="project-card">
@@ -49,8 +49,8 @@ function Projects() {
             isBlog={false}
             title="Airbnb clone"
             description="Experience the essence of web development with my Airbnb Recommendation Page Clone. Using React.js, I've crafted a responsive and engaging front-end replica of Airbnb's interface. Explore modern design, seamless navigation, and interactive elements that highlight my skills in creating captivating user experiences."
-            ghLink=""
-            demoLink=""
+            ghLink="https://github.com/puriravindra412/airbnb-clone"
+            demoLink="https://puriravindra412.github.io/airbnb-clone/"
           />
         </Col>
 
